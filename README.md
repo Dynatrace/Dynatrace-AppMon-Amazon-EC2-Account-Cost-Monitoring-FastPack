@@ -135,7 +135,6 @@ The setting &quot;Use proxy for connecting Amazon AWS&quot; allows to define pro
             <img src="images_community/download/attachments/64192516/01_amazon_account_monitor_setup.png" alt="images_community/download/attachments/64192516/01_amazon_account_monitor_setup.png" class="" />
             </p>
     </div>
-    
     <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-AmazonEC2AccountCostDashboard"  >
         <h2>Amazon EC2 Account Cost Dashboard</h2>
     <p>
@@ -174,7 +173,6 @@ Report    </p>
 </tbody>        </table>
             </div>
     </div>
-    <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-Measures"  >
         <h2>Measures</h2>
     <div class="tablewrap">
         <table>
@@ -531,10 +529,7 @@ Cost since last invocation for instances of type hi1.4xlarge.    </p>
 </tbody>        </table>
             </div>
     </div>
-    
-    <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-NewfeaturesinVersion5.5.0"  >
         <h2>New features in Version 5.5.0</h2>
-    
 <ul class=" "><li class=" ">    <p>
 Update Cost Values, add new Amazon AWS data center locations    </p>
 </li><li class=" ">    <p>
@@ -564,10 +559,7 @@ RDSActiveCountByClass by Instance Class    </p>
 </li></ul></li><li class=" ">    <p>
 Update to Amazon SDK 1.7.3    </p>
 </li></ul>    </div>
-    
-    <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-KnownProblems%2FLimitations"  >
         <h2>Known Problems/Limitations</h2>
-    
 <ul class=" "><li class=" ">    <p>
 As Amazon does not make the actual running costs available, the cost calculation is only an estimate, the actual values billed by Amazon might vary slightly.    </p>
 </li><li class=" ">    <p>
