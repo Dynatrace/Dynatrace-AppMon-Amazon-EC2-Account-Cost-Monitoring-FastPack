@@ -1,18 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Amazon EC2 Account Cost Monitoring FastPack</title>
-
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
     <meta content="Scroll Wiki Publisher" name="generator"/>
-
     <link type="text/css" rel="stylesheet" href="css/blueprint/liquid.css" media="screen, projection"/>
     <link type="text/css" rel="stylesheet" href="css/blueprint/print.css" media="print"/>
-    <!--[if lt IE 8]><link rel="stylesheet" href="css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]-->
-
     <link type="text/css" rel="stylesheet" href="css/content-style.css" media="screen, projection, print"/>
     <link type="text/css" rel="stylesheet" href="css/screen.css" media="screen, projection"/>
     <link type="text/css" rel="stylesheet" href="css/print.css" media="print"/>
@@ -27,22 +20,18 @@
                 <h4>Amazon EC2 Account Cost Monitoring FastPack</h4>
             </div>
         </div>
-
         <div class="block">
             <div class="toc column span-6 prepend-top">
                 <h3>Table of Contents
                                         <span class="small">(<a href="Amazon_EC2_Account_Cost_Monitoring_FastPack.html">Start</a>)</span>
                                     </h3>
-                
 <ul class="toc">
 </ul>
-
             </div>
             <div id="64192516" class="content column span-18 last">
                 <h1>Amazon EC2 Account Cost Monitoring FastPack</h1>
     <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-Overview"  >
         <h2>Overview</h2>
-    
     <p>
             <img src="images_community/download/attachments/64192516/icon.png" alt="images_community/download/attachments/64192516/icon.png" class="confluence-embedded-image image-left" />
         The dynaTrace FastPack for Amazon EC2 Account Cost Monitoring monitors EC2 instances and CloudFormations of an Amazon AWS Account. It provides a monitor which retrieves measures for the number of instances/formations as well as cost estimations. The FastPack consists of a custom Monitor, a sample System Profile, and a dashboard.    </p>
@@ -50,7 +39,6 @@
     
     <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-FastPackDetails"  >
         <h2>FastPack Details</h2>
-    
     <div class="tablewrap">
         <table>
 <thead class=" "></thead><tfoot class=" "></tfoot><tbody class=" ">    <tr>
@@ -172,7 +160,6 @@ The setting &quot;Use proxy for connecting Amazon AWS&quot; allows to define pro
     
     <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-AmazonEC2AccountCostDashboard"  >
         <h2>Amazon EC2 Account Cost Dashboard</h2>
-    
     <p>
     </p>
     <div class="tablewrap">
@@ -209,10 +196,8 @@ Report    </p>
 </tbody>        </table>
             </div>
     </div>
-    
     <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-Measures"  >
         <h2>Measures</h2>
-    
     <div class="tablewrap">
         <table>
 <thead class=" ">    <tr>
@@ -612,10 +597,8 @@ The plugin only calculates cost for the EC2 instances, costs for storage, networ
 </li></ul>    <p>
 <a href="https://community.compuwareapm.com/community/download/attachments/64192516/amazonaccountmonitor_5.5.0.5227.dtp?api=v2">amazonaccountmonitor_5.5.0.5227.dtp </a>    </p>
     </div>
-    
             </div>
         </div>
-
         <div class="footer">
             Created with <a href="http://k15t.com/display/en/Scroll-Wiki-HTML-Exporter-for-Confluence-Overview">Scroll Wiki HTML Exporter for Confluence</a>.
         </div>
