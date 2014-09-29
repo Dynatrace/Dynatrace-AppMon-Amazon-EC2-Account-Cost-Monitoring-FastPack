@@ -109,10 +109,7 @@ Configurable region handling and cost estimations    </p>
 </li></ul>    <p>
 To achieve this, this plugin uses the Amazon Webservices interfaces to periodically retrieve information about the number and types of EC2 instances and CloudFormations that are running in a configured Amazon AWS account and calculates related measures.    </p>
     </div>
-    
-    <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-Installation"  >
         <h2>Installation</h2>
-    
 <ul class=" "><li class=" ">    <p>
 Download the <a href="attachments_99254374_1_amazonaccountmonitor_4.1.0.2973.dtp">plugin file</a>    </p>
 </li><li class=" ">    <p>
