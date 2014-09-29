@@ -12,12 +12,8 @@
 </head>
 <body>
                 <h4>Amazon EC2 Account Cost Monitoring FastPack</h4>
-<ul class="toc">
-</ul>
-            </div>
             <div id="64192516" class="content column span-18 last">
                 <h1>Amazon EC2 Account Cost Monitoring FastPack</h1>
-    <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-Overview"  >
         <h2>Overview</h2>
     <p>
             <img src="images_community/download/attachments/64192516/icon.png" alt="images_community/download/attachments/64192516/icon.png" class="confluence-embedded-image image-left" />
