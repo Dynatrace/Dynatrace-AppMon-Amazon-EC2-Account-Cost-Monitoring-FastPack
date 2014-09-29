@@ -95,10 +95,7 @@ FastPack Contents    </p>
 </tbody>        </table>
             </div>
     </div>
-    
-    <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-Description"  >
         <h2>Description</h2>
-    
     <p>
 This FastPack extends performance data collection to number of instances on Amazon EC2 and estimated cost. It    </p>
 <ul class=" "><li class=" ">    <p>
