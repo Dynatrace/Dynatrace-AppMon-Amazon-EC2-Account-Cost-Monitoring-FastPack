@@ -11,20 +11,7 @@
     <link type="text/css" rel="stylesheet" href="css/print.css" media="print"/>
 </head>
 <body>
-    <div class="container" style="min-width: 760px;">
-        <div class="header block">
-            <div class="header-left column span-6">
-                
-            </div>
-            <div class="column span-18 header-right last">
                 <h4>Amazon EC2 Account Cost Monitoring FastPack</h4>
-            </div>
-        </div>
-        <div class="block">
-            <div class="toc column span-6 prepend-top">
-                <h3>Table of Contents
-                                        <span class="small">(<a href="Amazon_EC2_Account_Cost_Monitoring_FastPack.html">Start</a>)</span>
-                                    </h3>
 <ul class="toc">
 </ul>
             </div>
@@ -36,8 +23,6 @@
             <img src="images_community/download/attachments/64192516/icon.png" alt="images_community/download/attachments/64192516/icon.png" class="confluence-embedded-image image-left" />
         The dynaTrace FastPack for Amazon EC2 Account Cost Monitoring monitors EC2 instances and CloudFormations of an Amazon AWS Account. It provides a monitor which retrieves measures for the number of instances/formations as well as cost estimations. The FastPack consists of a custom Monitor, a sample System Profile, and a dashboard.    </p>
     </div>
-    
-    <div class="section-2"  id="64192516_AmazonEC2AccountCostMonitoringFastPack-FastPackDetails"  >
         <h2>FastPack Details</h2>
     <div class="tablewrap">
         <table>
