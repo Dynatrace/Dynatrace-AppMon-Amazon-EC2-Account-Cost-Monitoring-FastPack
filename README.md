@@ -6,5 +6,4 @@ instances/formations as well as cost estimations. The FastPack consists of a cus
 
 Find further information in the [dynaTrace community](https://community.compuwareapm.com/community/display/DL/Amazon+EC2+Account+Cost+Monitoring+FastPack)     
 
-For downloads go to [releases](https://github.com/dynaTrace/Dynatrace-Amazon-EC2-Account-Cost-Monitoring-FastPack/releases)
 
